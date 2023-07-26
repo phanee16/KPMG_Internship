@@ -1,1 +1,3 @@
-# KPMG_Internship_excel_file
+# KPMG_Internship
+
+Exploratory data analysis on home loan data
